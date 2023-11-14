@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailelsayedeltanja&label=Profile%20views&color=0e75b6&style=flat" alt="ismailelsayedeltanja" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Science - Artificial intelligence (AI)**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ismail-elsayed-eltanja-7803b9288](www.linkedin.com/in/ismail-elsayed-eltanja-7803b9288)
 
