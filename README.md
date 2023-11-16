@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailelsayedeltanja&label=Profile%20views&color=0e75b6&style=flat" alt="ismailelsayedeltanja" /> </p>
-<img align="right" alt="coding" width="290" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="301" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
