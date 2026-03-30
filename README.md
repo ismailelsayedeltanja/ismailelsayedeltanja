@@ -13,7 +13,7 @@
 
 - 🎓Graduation **I graduated from the Faculty of Artificial Intelligence at Kafrelsheikh University(2023)**
 
-- 📫 How to reach me **ismailtanjja@gmail.com - 01223277986**
+- 📫 How to reach me **ismaiil_ai@hotmail.com & ismailelsayedtanja@gmail.com - 01223277986**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iqaPHbVnHs8oYKGX19Y8Zdjzly7HPLs1/view?usp=drive_link](https://drive.google.com/file/d/1iqaPHbVnHs8oYKGX19Y8Zdjzly7HPLs1/view?usp=drive_link)
 
