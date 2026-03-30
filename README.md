@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science - Artificial intelligence (AI)**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ismail-elsayed-eltanja-7803b9288/](https://www.linkedin.com/in/ismail-elsayed-eltanja-7803b9288/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ismail-elsayed-ai](www.linkedin.com/in/ismail-elsayed-ai)
 
 - 🎓Graduation **I graduated from the Faculty of Artificial Intelligence at Kafrelsheikh University(2023)**
 
